@@ -1,6 +1,6 @@
 # TP3: Assistente Financeiro Pessoal (ReAct Agent + Tools + Memória)
 
-Código: https://github.com/juniorcarvalho/infnet/tree/main/Data-Driven-26E4_3/TP3
+Código: https://github.com/juniorcarvalho/infnet-Data-Driven-26E4_3-TP3
 
 ## Problema e solução
 
